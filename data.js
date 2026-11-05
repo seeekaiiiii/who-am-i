@@ -7,6 +7,7 @@ window.SITE_DATA = {
     title: "我是谁"
   },
   songs: [
+    { title: "欲泪海", artist: "MOCKER44. / 洛天依", id: 3335043986, cover: "https://p2.music.126.net/KDnRkvxGdrAVC267XQGYDw==/109951172528380334.jpg?param=300y300" },
     { title: "禁欲系", artist: "里里", id: 1946233848, cover: "https://p2.music.126.net/HOyB3iQUMVycUX14jZ6sdQ==/109951167398650654.jpg?param=300y300" },
     { title: "貴方だけが、幸せでありますように。", artist: "アメリカ民謡研究会", id: 3441384275, cover: "https://p1.music.126.net/hFEd5Ndr28LqtUEJ8SnzYg==/109951174009050349.jpg?param=300y300" },
     { title: "world.execute (me) ;", artist: "Mili", id: 435278010, cover: "https://p1.music.126.net/-OxCLbGs-JxKtPaBCo1yuw==/18801648835570109.jpg?param=300y300", vip: true },
