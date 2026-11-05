@@ -3,8 +3,8 @@
 
 window.SITE_DATA = {
   site: {
-    name: "私藏歌单",
-    title: "私藏歌单 · 我的收藏"
+    name: "我是谁",
+    title: "我是谁"
   },
   songs: [
     { title: "禁欲系", artist: "里里", id: 1946233848, cover: "https://p2.music.126.net/HOyB3iQUMVycUX14jZ6sdQ==/109951167398650654.jpg?param=300y300" },
